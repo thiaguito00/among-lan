@@ -1,0 +1,13 @@
+Sprites del juego
+==================
+
+Coloca aquí los PNG con estos nombres exactos:
+
+Colores del personaje:
+  rojo.png, azul.png, verde.png, rosa.png, naranja.png, amarillo.png,
+  negro.png, blanco.png, morado.png, marron.png, cian.png, lima.png
+
+Fantasma (se muestra al morir):
+  fantasma.png
+
+El juego los carga automáticamente al abrirse.
